@@ -14,3 +14,8 @@ https://www.youtube.com/watch?v=BtautVuUPO4
 ## Paper Published
 
 https://www.ijirset.com/upload/2020/april/119_DEEP_NC.PDF
+
+
+## How to Run
+
+Run home.py file from the UI folder.
