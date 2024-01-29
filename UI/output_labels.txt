@@ -1,0 +1,4 @@
+normal lung person
+lung cancer stage 02
+lung cancer stage 01
+lung cancer stage 03
